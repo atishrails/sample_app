@@ -33,4 +33,3 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
-#http://stackoverflow.com/questions/18555992/bundle-exec-rspec-spec-requests-static-pages-spec-rb-from-hartls-tutorial-isnt
